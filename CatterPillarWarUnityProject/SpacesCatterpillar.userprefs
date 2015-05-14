@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="J:\RabbitBeeRace\Assets\GameAssets\Scripts\RabbitBeeCharactorController.cs">
+    <Files>
+      <File FileName="J:\RabbitBeeRace\Assets\LevelGenerator.cs" Line="187" Column="1" />
+      <File FileName="J:\RabbitBeeRace\Assets\GameAssets\Scripts\RabbitBeeCharactorController.cs" Line="220" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
